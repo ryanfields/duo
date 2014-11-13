@@ -1,4 +1,17 @@
 
+0.8.10 / 2014-11-10
+==================
+
+  * adding test for include deps parsing
+  * allowing includes to require other named includes
+  * adding way to check if something has already been included
+
+0.8.9 / 2014-11-03
+==================
+
+  * An imperfect fix for multiple symlink creation.
+  * Add "cache" flag to API documentation
+
 0.8.8 / 2014-10-27
 ==================
 
